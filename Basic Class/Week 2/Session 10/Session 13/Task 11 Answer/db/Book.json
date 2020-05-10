@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Pasta Gigi",
+      "price": 15,
+      "stock": 2
+    },
+    {
+      "id": 2,
+      "name": "Pasta Gigi",
+      "price": 15,
+      "stock": 2
+    },
+    {
+      "id": 3,
+      "name": "Pasta Gigi",
+      "price": 15,
+      "stock": 2
+    },
+    {
+      "id": 4,
+      "name": "Pasta Gigi",
+      "price": 15,
+      "stock": 2
+    },
+    {
+      "id": 5,
+      "name": "Pasta Gigi Lagi",
+      "price": 15,
+      "stock": 2
+    },
+    {
+      "id": 6,
+      "name": "Pasta Gigi Lagi",
+      "price": 15,
+      "stock": 2
+    },
+    {
+      "id": 7,
+      "name": "Pasta Gigi Lagi",
+      "price": 15,
+      "stock": 2
+    },
+    {
+      "id": 8,
+      "name": "Pasta Gigi Lagi",
+      "price": 15,
+      "stock": 2
+    }
+  ]
+  
